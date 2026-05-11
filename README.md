@@ -39,13 +39,13 @@
 ・V-02: AIとの運用ルール管理安定化プロセスの記録
 
 ### マーケティング部署（定期リサーチ）
-・週1回ペースで稼働（CCがセッション内で実施。ユーザー作業不要）
+・週1目安で稼働（CCがセッション内で実施。ユーザー作業不要）
 ・対象：Claude Code/Anthropicアップデート・SEOトレンド・ターゲット市場動向
-・詳細：research/README.md（trends.md / seo-insights.md / market.md）
+・詳細：research/README.md（trends.md / seo-insights.md / market.md）・最終リサーチ日も記録
 ・記事ネタになるものはarticle-backlog.mdに連動追記
 
 ### GSC確認
-・次回確認：2026-05-15（リマインダー設定済み）
+・次回確認：期限: 2026-05-15
 
 ### 隙間タスク
 ・メルカリ出品（未出品フォルダから・細切れ時間で消化）
