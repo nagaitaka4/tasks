@@ -39,7 +39,7 @@
 ・V-02: AIとの運用ルール管理安定化プロセスの記録
 
 ### マーケティング部署（定期リサーチ）
-・月2回ペースで稼働（未開始）
+・週1回ペースで稼働（CCがセッション内で実施。ユーザー作業不要）
 ・対象：Claude Code/Anthropicアップデート・SEOトレンド・ターゲット市場動向
 ・詳細：research/README.md（trends.md / seo-insights.md / market.md）
 ・記事ネタになるものはarticle-backlog.mdに連動追記
