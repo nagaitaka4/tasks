@@ -104,7 +104,7 @@
 | 公募発表予測 | 2026年6〜7月頃 |
 | 申請締切予測 | 2026年8〜10月頃 |
 | 今やること | 発表を待つ。公募発表後に商工会議所へ電話予約 |
-| ドラフト | aicontent-note/docs/jizokuka-hojokin-draft.md |
+| ドラフト | aicontent-note/subsidy/jizokuka-hojokin-draft.md |
 
 ---
 
