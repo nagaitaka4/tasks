@@ -72,7 +72,8 @@
 
 | 内容 | 参照 |
 |---|---|
-| posts-stock.mdのストックから順次投稿（03番〜） | sns/posts-stock.md |
+| posts-stock.mdのストックから順次投稿（06番〜） | sns/posts-stock.md |
+| ⚠️ 35番（Claude課金変更）：2026-05-末〜06-08までに投稿（6/15施行前が旬） | sns/posts-stock.md |
 
 ---
 
@@ -93,6 +94,7 @@
 | 対象 | Claude Code/Anthropicアップデート・SEOトレンド・ターゲット市場動向 |
 | 頻度 | 週1目安（ユーザーが依頼 → CCがセッション内で実施・結果を即報告） |
 | 最終リサーチ日 | 2026-05-15（実施済み） |
+| 次回リサーチ | ⚠️ 2026-05-22 |
 | 詳細 | research/README.md（trends.md / seo-insights.md / market.md） |
 
 ---
