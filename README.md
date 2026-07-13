@@ -1,6 +1,6 @@
 # タスク管理 マスターリスト
 
-> 最終更新: 2026-07-13（士業シリーズ親記事をTOP5の2位に追加・S-19は常時掲載へ）
+> 最終更新: 2026-07-13（リポジトリ再構築に伴いsales/整理・残存ブランチ確認をタスク追加）
 > **ここが全リポジトリ横断の優先順位一覧。迷ったらここに戻る。**
 
 ---
@@ -36,6 +36,8 @@
 | 13 | カスタムGPTのmdファイル内容整理 | GPTに渡しているKnowledgeファイル（md）を見直し・重複削除・情報の最新化・構成の整理。サービス内容・料金・受注フロー・ヒアリング項目が正確に反映されているか確認する |
 | 11 | 補助金導入相談続き | 持続化補助金×ブログ運用代行の申請サポートモデル設計を継続検討 |
 | 12 | note設計 | 企画・立案（note/lineup.md・strategy.md参照） |
+| 15 | sales/（受注リード生成）の整理 | aicontent-note/sales/配下のPythonスクリプト一式（lead_generator.py等）が記事制作・X投稿・タスク管理のどの工程からも参照されず孤立している。2026-07-13のリポジトリ再構築では意図的にスコープ外。別途着手が必要 |
+| 16 | 残存する古いclaude/*ブランチの確認 | 2026-07-13に.claude/worktrees/8件と対応ブランチは削除・整理済み。ワークツリーを伴わない古いclaude/*ブランチが11件（crazy-cray・frosty-buck・gallant-bohr・intelligent-borg・jolly-herschel・keen-lamport・relaxed-swirles・romantic-visvesvaraya・serene-montalcini・sharp-euclid・unruffled-shirley）残っている。中身は未確認・削除は要確認 |
 
 ---
 
