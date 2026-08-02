@@ -51,6 +51,7 @@
 | 12 | note設計 | 企画・立案（note/lineup.md・strategy.md参照） |
 | 15 | sales/（受注リード生成）の整理 | aicontent-note/sales/配下のPythonスクリプト一式（lead_generator.py等）が記事制作・X投稿・タスク管理のどの工程からも参照されず孤立している。2026-07-13のリポジトリ再構築では意図的にスコープ外。別途着手が必要 |
 | 16 | 残存する古いclaude/*ブランチの確認 | 2026-07-13に.claude/worktrees/8件と対応ブランチは削除・整理済み。ワークツリーを伴わない古いclaude/*ブランチが11件（crazy-cray・frosty-buck・gallant-bohr・intelligent-borg・jolly-herschel・keen-lamport・relaxed-swirles・romantic-visvesvaraya・serene-montalcini・sharp-euclid・unruffled-shirley）残っている。中身は未確認・削除は要確認 |
+| 17 | 既存記事に外部一次情報への実リンクを追加（最新10本優先） | 2026-08-03、M-02制作中に発覚：公開済み58記事すべてで外部一次情報へのハイパーリンクが0件（出典を文字表記のみで済ませていた）。ユーザー指示で最新10本を優先着手：no.53 claude-code-labor-consultant-rules-agreement／no.51 ai-webwriting-50-honest-review／no.50 content-outsource-price-polarization／no.49 claude-code-lawyer-case-management／no.48 claude-code-task-fit／no.47 template-basics／no.46 internal-link-guide／no.45 readme-basics／no.42 mercari-ai-listing／no.41 directory-structure-basics。記事ごとに外部データ言及箇所を洗い出し、一次情報のURLを確認できたものだけリンク化する（URLが確認できない数値は記述自体の見直しも検討）。恒久ルールは`rules/article-flow.md`0章に追記済み |
 
 ---
 
