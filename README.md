@@ -1,6 +1,6 @@
 # タスク管理 マスターリスト
 
-> 最終更新: 2026-08-14（定期リサーチ実施。⚠️**近々一時タスク#21を新設**＝Search Consoleに「生成AI」レポートが出ているか実機確認する。出ていれば7/28から保留中の記事no.52を再開できる）
+> 最終更新: 2026-08-14（定期リサーチ実施。**Search Consoleの「生成AI」レポートを実機確認 → 未展開で3回連続。記事no.52は保留継続**。次の確認は9/1のGSC月次に統合）
 > **ここが全リポジトリ横断の優先順位一覧。迷ったらここに戻る。**
 
 ---
@@ -104,10 +104,10 @@
 | 11 | 補助金導入相談続き | 持続化補助金×ブログ運用代行の申請サポートモデル設計を継続検討 |
 | 12 | note設計 | 企画・立案（note/lineup.md・strategy.md参照） |
 | 15 | sales/（受注リード生成）の整理 | aicontent-note/sales/配下のPythonスクリプト一式（lead_generator.py等）が記事制作・X投稿・タスク管理のどの工程からも参照されず孤立している。2026-07-13のリポジトリ再構築では意図的にスコープ外。別途着手が必要 |
-| 18 | **【9/1】GSC月次確認＋no.40の効果検証** | **記事制作ではなく検証タスクのためTOP10から移動（2026-08-11）。**⚠️ 74表示規模では結論が出ない可能性が高い。差がクリック1〜2回なら「判定不能」と正直に書く。結果は`aicontent-note/operations/rewrite-log.md`へ |
+| 18 | **【9/1】GSC月次確認＋no.40の効果検証** | **⚠️ついでに確認：Search Consoleに「生成AI」レポートとオプトアウトのトグルが出ているか**（8/14の実機確認では未展開＝3回連続。出ていれば保留中の記事no.52を再開できる。詳細は#21）。<br>**記事制作ではなく検証タスクのためTOP10から移動（2026-08-11）。**⚠️ 74表示規模では結論が出ない可能性が高い。差がクリック1〜2回なら「判定不能」と正直に書く。結果は`aicontent-note/operations/rewrite-log.md`へ |
 | 19 | **【改善】service/ ページ本文** | **固定ページのためTOP10から移動（2026-08-11）。**タイトル・descriptionは8/10完了済み。0クリック＝誰も本文を読んでいないので本文が悪いという証拠がない。9/1にクリックが取れたか確認してから着手 |
 | 20 | **MDのメタ情報欠落をWPと突き合わせる** | **2026-08-12のルール見直しで判明。**MD側で`description`が空の公開記事が**14本**（no.1・2・3・4・5・6・7・8・9・10・11・12・13・15）。**うちno.10 swell-seo-settings は224表示でサイト2位、no.7 content-operation-system は未インデックスだった記事**。ほかに`date:`空が3本（no.22・43・44）、`eyecatch_alt`空が9本、description120字未満が11本。**⚠️ MDとWPがズレている可能性があるためMD側の欠落＝WP側の欠落とは限らない。**WPの実データを確認し、WP側にもなければ追記、あればMDへ同期する。最新の欠落一覧は`python3 operations/article-self-check.py`ではなく、`articles/*.md`のfrontmatterを直接走査して取り直す |
-| 21 | **⚠️【最優先で5分】Search Consoleに「生成AI」レポートが出ているか実機確認する** | **2026-08-14リサーチ由来。**生成AIパフォーマンスレポートが**2026-08-11に事実上すべてのサイトで開放された**という観測報告が出た（[seroundtable](https://www.seroundtable.com/google-search-console-ai-report-live-41850.html)／[scale-basics.com](https://scale-basics.com/news/gsc-generative-ai-report-all-users/)）。**確認する場所**：Search Consoleの「検索パフォーマンス > 検索結果 > **生成AI**」と、設定画面のオプトアウトのトグル。**7/28・8/3の確認時はどちらも無かった。**⚠️Googleの公式アナウンスはなく観測ベースの報告のため、**あくまで実機で見えるかどうかが判断基準**。⚠️見られるのは表示回数・ページ・国・デバイス・日付の5項目のみ（クリック・CTR・クエリはなし）。**見えていた場合**：7/28から保留している記事ドラフト`aicontent-note/articles/search-console-ai-overview-optout.md`（no.52）を「実際に使ってみた」実況記事として書き直して再開できる＝**TOP10への再掲をCCから提案する**。保留の経緯は`aicontent-note/operations/article-backlog.md`の該当メモ |
+| 21 | ~~Search Consoleに「生成AI」レポートが出ているか実機確認する~~ | ✅ **2026-08-14 12:23 確認完了 → 未展開だった。記事no.52の保留を継続する。**8/11に「生成AIパフォーマンスレポートが事実上全サイトで開放された」という観測報告が出た（[seroundtable](https://www.seroundtable.com/google-search-console-ai-report-live-41850.html)／[scale-basics.com](https://scale-basics.com/news/gsc-generative-ai-report-all-users/)）ため実機確認したが、**4か所すべてで生成AI関連の項目はなかった**：①左ナビの「検索パフォーマンス」が検索結果・Discover・生成AIに分岐していない ②検索タイプのフィルタは**ウェブ／画像／動画／ニュースの4つのみ** ③設定ページにオプトアウトのトグルなし ④「検索での見え方」タブは空。**「AI を使用してパフォーマンス レポートをカスタマイズする」ボタンはあるが8/3に確認済みのレポート作成アシスタントで別物。****これで7/28・8/3・8/14と3回連続で未展開。**「グローバル展開完了」の報道とこのプロパティへの反映には2週間以上のラグが繰り返し出ている。**判断ルール：報道を根拠に着手しない。実機で見えた日を起点にする。****次の確認は9/1のGSC月次スナップショット時にまとめて行う**（→ #18に統合）。単独で見に行く価値はない |
 | 16 | 残存する古いclaude/*ブランチの確認 | 2026-07-13に.claude/worktrees/8件と対応ブランチは削除・整理済み。ワークツリーを伴わない古いclaude/*ブランチが11件（crazy-cray・frosty-buck・gallant-bohr・intelligent-borg・jolly-herschel・keen-lamport・relaxed-swirles・romantic-visvesvaraya・serene-montalcini・sharp-euclid・unruffled-shirley）残っている。中身は未確認・削除は要確認 |
 | ~~17~~ | ~~既存記事に外部一次情報への実リンクを追加（最新20本）~~ | ✅ 2026-08-03完了。公開済み58記事で外部一次情報へのハイパーリンクが0件だった問題に対し、最新20本（no.53〜30）を全件洗い出し。対象は2件のみ：①`claude-fable-5.md`のAnthropicセーフガード発動率5%未満→[公式発表](https://www.anthropic.com/news/claude-fable-5-mythos-5)へのリンク追加で解決。②`claude-code-task-fit.md`の「契約書レビュー80%自動化」→出典（ai-market.jp/uravation.com記載も具体URLなし）を複数記事・複数検索で特定できず、数値を削除し断定を避けた表現に修正（ユーザーが最終文言を決定）。残り18記事は自社料金相場・体験談の実数字のため対象外と判定。恒久ルールは`rules/article-flow.md`0章に追記済み |
 
