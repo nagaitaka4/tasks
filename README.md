@@ -627,7 +627,7 @@ R-01〜R-09公開済み（R-09：2026-08-04・no.55）。**連続公開はせず
 | 結果 | noindex・カテゴリー等は放置OK。公開済み記事5件がクロール済み未登録または検出未登録：/swell-seo-settings/・/ai-writing-tool-comparison/・/ai-webwriting-verification-01/・/ai-writing-claude-setup/・/content-operation-outsource-what-is/ → インデックスリクエスト申請を推奨 |
 | 次回確認 | 2026-06-22 🟢 |
 
-- [ ] GSCインデックス登録リクエスト：AI記事はSEOで不利？ペナルティの条件とAIで書いた74本の数字（no.67改稿・2026-10-29にWPへ反映・URL維持 https://aicontent-note.com/blog-half-year-ai-article-results/ ・リクエストはユーザー）
+- [x] GSCインデックス登録リクエスト：AI記事はSEOで不利？ペナルティの条件とAIで書いた74本の数字（no.67改稿・2026-10-29にWPへ反映・URL維持 https://aicontent-note.com/blog-half-year-ai-article-results/ ・リクエストはユーザー） ✅ **2026-10-29 22時台にリクエスト済み（ユーザー）**
 - [x] GSCインデックス確認：ブログ運用代行の相場はいくら？料金の目安と失敗しない選び方（公開日2026-06-23・3日以内） ✅ **2026-08-11に一括確認済み（インデックス登録済み）**
 - [x] GSCインデックス確認：ディレクトリ構造とは？AI業務が整理されるフォルダ設計の考え方（公開日2026-06-25・3日以内） ✅ **2026-08-11に一括確認済み（インデックス登録済み）**
 - [x] GSCインデックス確認：Claude Codeでメルカリ出品の手間を半分にした話（公開日2026-06-29・インデックス登録リクエスト済み）
