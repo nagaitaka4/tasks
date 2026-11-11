@@ -1,6 +1,6 @@
 # タスク管理 マスターリスト
 
-> 最終更新: 2026-11-12 06時台（**no.59「ChatGPT有料プランの違い。Go・Plus・Proと画像生成の上限」を全面改稿してWPに反映（TOP10 #1完了）。**post 801・URL維持。9枠を繰り上げた。待機列は0本で、TOP10は9本＝**補充が要る**（#10が空き）。繰り上げ順の新1位は「AIで書いた文章はバレる？Claudeの透かしと判定ツール」＝Claudeの題なので、はてなブックマークでの比べ直し・Claude/ChatGPTの名前が無い題を優先する決め直しと補充は次のセッション。GSCの再リクエストはユーザー（常時掲載に追加））
+> 最終更新: 2026-11-12 06時台（**no.59「ChatGPT有料プランの違い。Go・Plus・Proと画像生成の上限」を全面改稿してWPに反映（TOP10 #1完了）。**post 801・URL維持。9枠を繰り上げた。待機列は0本で、TOP10は9本＝**補充が要る**（#10が空き）。繰り上げ順の新1位は「AIで書いた文章はバレる？Claudeの透かしと判定ツール」＝Claudeの題なので、はてなブックマークでの比べ直し・Claude/ChatGPTの名前が無い題を優先する決め直しと補充は次のセッション。GSCの再リクエストはユーザー済み〔11/12 07時台〕）
 > 最終更新: 2026-11-11 10時台（**no.81「ChatGPTに学習させない設定。会社の情報を入れる前に」を公開（TOP10 #1完了）。**post 1228・新規。9枠を繰り上げ、空いた#10に待機11の「ブログのリライトは効くのか」を入れた。新1位は「ChatGPTの有料プランの違い。Go・Plus・Proと画像生成の上限」（no.59改稿・はてなブックマークでの比べ直しは次のセッション）。GSCのリクエストはユーザー済み）
 > 最終更新: 2026-11-10 18時台（**1位を決め直した＝変わらず「ChatGPTに学習させない設定。会社の情報を入れる前に」（新規・no.81）**。はてなブックマークで伸びている記事に写せる候補は無かった〔比較は`aicontent-note/operations/theme-candidates-2026-11-10-evening-copy-growing.md`〕。構成案 第3稿を作成（`aicontent-note/operations/structure-drafts/chatgpt-training-opt-out.md`・別のレビュー役2回）。GPTレビューと確認1〔本人のChatGPTの学習設定をオフにするか〕の回答待ち。TOP10の順位は変えていない）
 > 最終更新: 2026-11-10 17時台（**no.80「AIでSNS投稿を続ける方法。ネタ・画像・投稿文の任せ方と3つのコツ」を公開（TOP10 #1完了）。**post 1221・新規。9枠を繰り上げ、空いた#10に待機11の「AIでライターの仕事はなくなる？」を入れた。新1位は「ChatGPTに学習させない設定。会社の情報を入れる前に」（はてなブックマークでの比べ直しは次のセッション）。GSCのリクエストはユーザー済み）
@@ -672,7 +672,7 @@ R-01〜R-09公開済み（R-09：2026-08-04・no.55）。**連続公開はせず
 | 結果 | noindex・カテゴリー等は放置OK。公開済み記事5件がクロール済み未登録または検出未登録：/swell-seo-settings/・/ai-writing-tool-comparison/・/ai-webwriting-verification-01/・/ai-writing-claude-setup/・/content-operation-outsource-what-is/ → インデックスリクエスト申請を推奨 |
 | 次回確認 | 2026-06-22 🟢 |
 
-- [ ] GSCインデックス登録リクエスト（再）：ChatGPT有料プランの違い。Go・Plus・Proと画像生成の上限（no.59・2026-11-12に全面改稿・URL維持 https://aicontent-note.com/chatgpt-free-paid-difference/ ・リクエストはユーザー）
+- [x] GSCインデックス登録リクエスト（再）：ChatGPT有料プランの違い。Go・Plus・Proと画像生成の上限（no.59・2026-11-12に全面改稿・URL維持 https://aicontent-note.com/chatgpt-free-paid-difference/ ・リクエストはユーザー） ✅ **2026-11-12 07時台に再リクエスト済み（ユーザー）**
 - [x] GSCインデックス登録リクエスト：ChatGPTに学習させない設定。会社の情報を入れる前に（no.81・2026-11-11公開・新規 https://aicontent-note.com/chatgpt-training-opt-out/ ・リクエストはユーザー） ✅ **2026-11-11 10時台にリクエスト済み（ユーザー）**
 - [x] GSCインデックス登録リクエスト：AIでSNS投稿を続ける方法。ネタ・画像・投稿文の任せ方と3つのコツ（no.80・2026-11-10公開・新規 https://aicontent-note.com/ai-sns-posting-continue/ ・リクエストはユーザー） ✅ **2026-11-10 17時台にリクエスト済み（ユーザー）**
 - [x] GSCインデックス登録リクエスト：ブログ自動化をAIに任せると起きること。任せる作業と人が決めること（no.64改稿・2026-11-09にWPへ反映・URL維持 https://aicontent-note.com/blog-operation-automation-limit/ ・リクエストはユーザー） ✅ **2026-11-09 22時台にリクエスト済み（ユーザー）**
